@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 </div>
   
+
+          
 <div style="display: inline_block"><br>
-<img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-<img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
-<img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
-<img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="center" height="60" width="140" src="https://www.wallpapertip.com/wmimgs/41-412889_git-and-github-logo.png"/>
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
   
 </div>
