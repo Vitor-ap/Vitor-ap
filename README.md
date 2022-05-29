@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Vitor-ap">
-<img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=dark"/>
-<img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=dark"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=dark"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
   
