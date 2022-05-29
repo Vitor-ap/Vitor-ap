@@ -1,4 +1,6 @@
 ### Meu nome é Vitor, sou Estudante do curso de Análise e Ddesenvolvimento de Sistemas na Fatec Zona Leste
+##
+
 
 <!--
 **Vitor-ap/Vitor-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +19,10 @@ Here are some ideas to get you started:
 - ☕ Atualmente está estudando Java
 
 <div>
-  <a href="https://github.com/Vitor-ap">
-<img height="180eUopm" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/Vitor-ap">
+<img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=dark"/>
+<img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   
 <div style="display: inline_block"><br>
