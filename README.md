@@ -1,5 +1,8 @@
-### Meu nome é Vitor, sou Estudante do curso de Análise e Ddesenvolvimento de Sistemas na Fatec Zona Leste
-##
+#
+Estudante do curso de Análise e Ddesenvolvimento de Sistemas na Fatec Zona Leste
+
+Git com repositórios de projetos / exercícios acadêmicos
+#
 
 
 <!--
@@ -16,12 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - ☕ Atualmente está estudando Java
 
 <div>
 <a href="https://github.com/Vitor-ap">
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=dark"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=dark"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vitor-ap&count_private=true&show_icons=true&show_icons=true&theme=prussian"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ap&layout=compact&langs_count=7&theme=prussian"/>
 
 </div>
   
